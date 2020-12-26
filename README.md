@@ -4,3 +4,4 @@ Project developed during the class "recreating the snake game with javascript" o
 <p align="center">
     <img alt="snakeGame" title="snakeGame" src="./img/snake-game.png" width="100%">
 </p>
+<hr>
